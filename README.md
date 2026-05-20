@@ -57,3 +57,54 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+
+## ⚙️ Installation
+Clone Repository
+git clone https://github.com/your-username/ats-dashboard.git
+
+## Move into Project Folder
+cd ats-dashboard
+
+## Install Dependencies
+npm install
+
+## Start Development Server
+npm run dev
+
+## 🌐 Responsive Design
+This project is fully responsive for:
+Mobile Devices
+Tablets
+Laptops
+Large Screens
+Supports:
+320px → 2500px
+
+## 📸 Pages Included
+# 🔐 Login Page
+Modern login UI
+Responsive layout
+
+## 📊 Dashboard
+Analytics cards
+Hiring statistics
+Recent activities
+
+## 💼 Jobs Page
+Job listings
+Search functionality
+Dynamic job details
+
+## 👨‍💻 Candidates Page
+Candidate profiles
+Search functionality
+Dynamic candidate details
+
+## ✨ Future Improvements
+Authentication System
+Dark Mode
+Backend Integration
+Database Connectivity
+Charts & Graphs
+Protected Routes
+Sidebar Navigation
